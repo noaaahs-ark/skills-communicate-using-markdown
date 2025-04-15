@@ -7,6 +7,6 @@ def greet() -> None:
   print("Hello, Markdown!")
 ```
 
-- [] Turn on Github Pages
-- [] Outline my portfolio
-- [] Introduce myself to the world
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
